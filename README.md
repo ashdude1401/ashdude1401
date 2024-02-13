@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ashdudecool1401@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/gRZxbxaa9](https://resume.io/r/gRZxbxaa9)
+- 📄 Know about my experiences [Resume](https://ashdude.tiiny.site)
 
 - ⚡ Fun fact **I intorvert and also vlogger**
 
