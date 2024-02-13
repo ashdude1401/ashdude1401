@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [My_portfolio_of_failure](https://github.com/ashdude1401/My-Portfolio-of-failures.git)
 
-- 🌱 I’m currently learning **Flutter MERN CLOUD**
+- 🌱 I’m currently learning **Blockchain AI/ML*
 
-- 👨‍💻 All of my projects are available at [https://github.com/ashdude1401?tab=repositories](https://github.com/ashdude1401?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/ashdude1401?tab=repositories)
 
 - 💬 Ask me about **Flutter MERN**
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Resume](https://ashdude.tiiny.site)
 
-- ⚡ Fun fact **I intorvert and also vlogger**
+- ⚡ Fun fact **I love both dsa and dev 💓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
